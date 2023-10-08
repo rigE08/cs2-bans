@@ -8,7 +8,7 @@ Installation:
 
 ```mm_reload_admins``` - Reload admin list
 
-```mm_ban <userid|nickname> <time_second>``` - Ban client
+```mm_ban <userid|nickname> <time_minutes>``` - Ban client
 
 ```mm_unban <steamid>``` - Unban client
 
